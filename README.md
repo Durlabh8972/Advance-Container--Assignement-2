@@ -56,8 +56,9 @@ bash
 Copy
 Edit
 curl -X POST http://localhost:5000/user -H "Content-Type: application/json" -d "{\"first_name\": \"Durlabh\", \"last_name\": \"Tilavat\"}"
+
 curl http://localhost:5000/user/1
-📸 Screenshots Included
+
 Docker build and run terminal
 
 Successful curl requests
